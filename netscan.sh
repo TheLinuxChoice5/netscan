@@ -1,6 +1,6 @@
 #!/bin/bash
 # Netscan: Anonymous & Multi-threaded network port scan in shellscript using Netcat e proxychains
-# Author: thelinuxchoice
+# Author: TheLinuxChoice5
 # Github: github.com/TheLinuxChoice5/netscan 
 trap 'partial;exit 1' 2
 
@@ -76,7 +76,7 @@ printf "\e[1;92m |  \| |/ _ \ __\___ \ / __/ _\` | '_ \  \e[0m\n"
 printf "\e[1;92m | |\  |  __/ |_ ___) | (_| (_| | | | | \e[0m\n"
 printf "\e[1;92m |_| \_|\___|\__|____/ \___\__,_|_| |_| \e[0m\e[1;77mv1.2\e[0m\n"
 printf "\n"
-printf "\e[1;100m  Author: thelinuxchoice (Github/Instagram) \e[0m\n\n"
+printf "\e[1;100m  Author: TheLinuxChoice5 \e[0m\n\n"
 
 
 }
